@@ -1,2 +1,2 @@
 # dotfiles
-My Linux dotfiles
+My dotfiles, managed with Stow.
