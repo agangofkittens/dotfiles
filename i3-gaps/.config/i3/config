@@ -125,9 +125,8 @@ bindsym $mod+Shift+f focus mode_toggle
 # ----------------------------------------------------------------------------
 
 # Screenshots
-#bindsym XF86LaunchA exec gnome-screenshot
-#bindsym $mod+XF86LaunchA exec gnome-screenshot -w
-#bindsym $alt+XF86LaunchA exec gnome-screenshot -a
+bindsym Print exec owo -s
+bindsym Shift+Print exec owo -sf
 
 # Volume controls
 bindsym XF86AudioRaiseVolume exec --no-startup-id "pactl set-sink-mute 0 false"; exec --no-startup-id "pactl set-sink-volume 0 +1%"
