@@ -22,4 +22,5 @@ vboxnet_enable="YES"
 ### Fonts
 https://forums.freebsd.org/threads/fonts-in-firefox.68600/
 https://forums.freebsd.org/threads/ugly-fonts-on-some-websites.61501/
+https://forums.freebsd.org/threads/recommended-xorg-font-configuration-method.59744/
 
