@@ -18,3 +18,8 @@ dbus_enable="YES"
 vboxdrv_load="YES"
 vboxnet_enable="YES"
 ```
+
+### Fonts
+https://forums.freebsd.org/threads/fonts-in-firefox.68600/
+https://forums.freebsd.org/threads/ugly-fonts-on-some-websites.61501/
+
