@@ -1,6 +1,0 @@
-# start some nice progrmas..
-
-compton -b &
-dunst -config ~/.config/dunst/dunstrc &
-xrdb -load -I$HOME ~/.Xresources
-. $HOME/.local/bin/urxvt_daemon & # urxvt daemon
